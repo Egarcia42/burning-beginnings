@@ -1,0 +1,615 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 224,
+    "major": 5,
+    "minor": 5,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": false,
+    "projectUuid": "19db38d3-1709-4bf4-a389-05e8dea12815",
+    "scaleMode": "linear",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "BB_TEST_6",
+    "description": "The environment: Lobby/Gallery",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "lobby assets.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "lobby assets.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor1_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor1_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor2_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor2_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor3_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor3_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall1_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall1_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall1_v2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall1_v2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall1_v3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall1_v3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall1_v4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall1_v4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall2_v1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall2_v1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/boundary.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "boundary",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/test_player.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "test_player",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "computer_desk.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "computer_desk.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall_canvas_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_canvas_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bench_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bench_1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor_1_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_1_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor_2_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_2_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "floor_3_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "floor_3_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall_1_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_1_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall_2_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_2_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "wall_canvas_1_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wall_canvas_1_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "bench_1_reup.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "bench_1_reup.png",
+        "smoothed": true,
+        "userAdded": false
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "test_player",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "SmoothCamera",
+          "type": "SmoothCamera::SmoothCamera",
+          "LeftwardSpeed": 0.9,
+          "RightwardSpeed": 0.9,
+          "UpwardSpeed": 0.9,
+          "DownwardSpeed": 0.9,
+          "FollowOnX": true,
+          "FollowOnY": true,
+          "FollowFreeAreaLeft": 0,
+          "FollowFreeAreaRight": 0,
+          "FollowFreeAreaTop": 0,
+          "FollowFreeAreaBottom": 0,
+          "CameraOffsetX": 0,
+          "CameraOffsetY": 0,
+          "CameraDelay": 0,
+          "ForecastTime": 0,
+          "ForecastHistoryDuration": 0,
+          "LogLeftwardSpeed": 2.0247e-320,
+          "LogRightwardSpeed": 2.0247e-320,
+          "LogDownwardSpeed": 2.0247e-320,
+          "LogUpwardSpeed": 2.0247e-320,
+          "DelayedCenterX": 2.0247e-320,
+          "DelayedCenterY": 2.0247e-320,
+          "ForecastHistoryMeanX": 2.0247e-320,
+          "ForecastHistoryMeanY": 2.0247e-320,
+          "ForecastHistoryVarianceX": 2.0247e-320,
+          "ForecastHistoryCovariance": 2.0247e-320,
+          "ForecastHistoryLinearA": 2.0247e-320,
+          "ForecastHistoryLinearB": 2.0247e-320,
+          "ForecastedX": 2.0247e-320,
+          "ForecastedY": 2.0247e-320,
+          "ProjectedNewestX": 2.0247e-320,
+          "ProjectedNewestY": 2.0247e-320,
+          "ProjectedOldestX": 2.0247e-320,
+          "ProjectedOldestY": 2.0247e-320,
+          "ForecastHistoryVarianceY": 2.0247e-320,
+          "Index": 2.0247e-320,
+          "CameraDelayCatchUpSpeed": 0,
+          "CameraExtraDelay": 2.0247e-320,
+          "WaitingSpeedXMax": 2.0247e-320,
+          "WaitingSpeedYMax": 2.0247e-320,
+          "WaitingEnd": 2.0247e-320,
+          "CameraDelayCatchUpDuration": 2.0247e-320,
+          "LeftwardSpeedMax": 9000,
+          "RightwardSpeedMax": 9000,
+          "UpwardSpeedMax": 9000,
+          "DownwardSpeedMax": 9000,
+          "OldX": 9000.000000007454,
+          "OldY": 9000.000000007454,
+          "IsCalledManually": false
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "maxSpeed": 500,
+          "acceleration": 5000,
+          "allowDiagonals": true,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "customIsometryAngle": 30,
+          "deceleration": 5000,
+          "ignoreDefaultControls": false,
+          "movementAngleOffset": 0,
+          "rotateObject": false,
+          "viewpoint": "TopDown"
+        }
+      ],
+      "animations": [
+        {
+          "name": "test_player",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "test_player",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 33,
+                    "y": 64
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 32,
+                    "y": 32.5
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 56
+                      },
+                      {
+                        "x": 64,
+                        "y": 56
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "boundary",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior",
+          "canBeGrabbed": false,
+          "platformType": "NormalPlatform",
+          "yGrabOffset": 0
+        }
+      ],
+      "animations": [
+        {
+          "name": "boundary",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "boundary",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 0
+                      },
+                      {
+                        "x": 64,
+                        "y": 64
+                      },
+                      {
+                        "x": 0,
+                        "y": 64
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "floor3_examp",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 0,
+                        "y": 0
+                      },
+                      {
+                        "x": 300,
+                        "y": 0
+                      },
+                      {
+                        "x": 300,
+                        "y": 160
+                      },
+                      {
+                        "x": 0,
+                        "y": 160
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "test_player"
+      },
+      {
+        "objectName": "boundary"
+      },
+      {
+        "objectName": "floor3_examp"
+      }
+    ]
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/lobby_v1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/gallery1_v1"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/ysort"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/behaviorremapper"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/smoothcamera"
+    }
+  ],
+  "externalLayouts": []
+}
