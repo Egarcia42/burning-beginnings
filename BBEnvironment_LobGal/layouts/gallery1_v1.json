@@ -1,0 +1,2918 @@
+{
+  "b": 145,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "Gallery1_95v1",
+  "name": "Gallery1_v1",
+  "r": 145,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 145,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.4057518905943891,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "floor3_examp",
+      "persistentUuid": "30484885-eca1-4f13-8cf2-88fc71bd8adb",
+      "width": 0,
+      "x": 2097,
+      "y": -720,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "546833f6-317c-46ce-a00b-94179f4411a4",
+      "width": 300,
+      "x": 462,
+      "y": 132,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "262a6d89-73cc-41f1-afd4-53878f876529",
+      "width": 300,
+      "x": 859,
+      "y": -514,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "470dde2b-e263-483f-acd3-b0e96bd11565",
+      "width": 300,
+      "x": 166,
+      "y": 134,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 136,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "5ea09b5d-4c01-474a-98bd-f6bc882dca4c",
+      "width": 305,
+      "x": 310,
+      "y": 184,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "0247bb13-8070-4c57-a849-fe386bdde6b4",
+      "width": 300,
+      "x": 608,
+      "y": 182,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "22e9a872-3e26-4ece-9bb6-837c1a7c27af",
+      "width": 300,
+      "x": 430,
+      "y": -511,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "733ef5af-4deb-4e19-bcec-fbae7c33af6e",
+      "width": 300,
+      "x": 309,
+      "y": 80,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "291c8aa6-88c5-4c02-bdaa-7f8bb702f1c8",
+      "width": 300,
+      "x": -45,
+      "y": -518,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "66f24c60-3cb5-45d5-99e1-68733986328c",
+      "width": 300,
+      "x": 463,
+      "y": 232,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "60c8acd8-f0e9-4ccb-959b-1d0bdf6d54a2",
+      "width": 300,
+      "x": 17,
+      "y": 185,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "5bc5f233-8d15-4045-8f35-7ff0837181a5",
+      "width": 300,
+      "x": 322,
+      "y": 286,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "927f2e5e-10e2-4027-95df-5818c41aed84",
+      "width": 300,
+      "x": 171,
+      "y": 237,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "2a1fbcd2-6f60-450e-8a74-50fb6f2d3426",
+      "width": 300,
+      "x": 751,
+      "y": 231,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "47276505-a495-4058-81fa-318ee9eb3664",
+      "width": 300,
+      "x": 611,
+      "y": 280,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "04138f74-c91b-4f62-be6a-fd3ca4b62e47",
+      "width": 300,
+      "x": -127,
+      "y": 238,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "b9c690c4-7470-4697-b4d7-e513ecff04ec",
+      "width": 300,
+      "x": 31,
+      "y": 287,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "97915274-cc41-454b-b3e7-3263d92184db",
+      "width": 300,
+      "x": 177,
+      "y": 335,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "14a0efe3-4dfa-402e-90b5-b07cc7876906",
+      "width": 300,
+      "x": 465,
+      "y": 332,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "3d77eb0e-ff23-4710-9339-858d910c1d51",
+      "width": 300,
+      "x": 325,
+      "y": 382,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "5b2124ea-8513-430e-b187-c50db8ea73bb",
+      "width": 300,
+      "x": 157,
+      "y": 30,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "3b8aef8c-fae8-43eb-9f10-25d8302769a0",
+      "width": 300,
+      "x": 25,
+      "y": 78,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "e58b511d-7f20-4293-bdd6-498cd645fa1f",
+      "width": 300,
+      "x": -123,
+      "y": 129,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "28d2015e-5dd5-4a4a-978d-92c5eb8dba8c",
+      "width": 300,
+      "x": -261,
+      "y": 180,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "f0c18024-cbca-43f6-900b-62f7d92eeaa8",
+      "width": 300,
+      "x": 613,
+      "y": 386,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "0ec9b09f-8de2-4c81-ac26-fa4a099de416",
+      "width": 300,
+      "x": 467,
+      "y": 438,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "8aed0f86-8e63-4312-89da-b58ad6c58e1d",
+      "width": 300,
+      "x": 755,
+      "y": 332,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "f048e404-7edd-483b-96d7-e15aac599e13",
+      "width": 300,
+      "x": 897,
+      "y": 282,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "",
+      "name": "test_player",
+      "persistentUuid": "ca097bef-7b0e-4ada-befb-38a7ea715630",
+      "width": 0,
+      "x": -107,
+      "y": 294,
+      "zOrder": 100,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "a830ceab-1572-48ed-99a4-06b1a267c482",
+      "width": 300,
+      "x": 611,
+      "y": 485,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "9e954f46-99f2-4047-9c10-c45d4c5fe238",
+      "width": 300,
+      "x": 910,
+      "y": 381,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "b41b33bc-6db5-4572-8476-19ef661e9b18",
+      "width": 300,
+      "x": 760,
+      "y": 435,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "5861e7fb-f344-47dd-a411-258ef641b531",
+      "width": 300,
+      "x": 1043,
+      "y": 331,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "5aef24f3-1ae4-4c94-bc53-5dcd78fdada3",
+      "width": 300,
+      "x": 757,
+      "y": 534,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "f5bcdedf-11f6-44fb-91b3-aba69c916929",
+      "width": 300,
+      "x": 904,
+      "y": 485,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "40cf8608-cf0f-44ac-91d5-6e28fc4dd71f",
+      "width": 300,
+      "x": 1040,
+      "y": 434,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "31ec6c67-4410-4a80-a830-1a95e3ca35bf",
+      "width": 300,
+      "x": 1191,
+      "y": 383,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "61f11163-d7ef-4508-a246-bd76b77454e0",
+      "width": 193,
+      "x": -4,
+      "y": -804,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 254.2329317269076,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall2_v2",
+      "persistentUuid": "6a5c2cf4-4cab-454a-9195-5abb71fcaaff",
+      "width": 193,
+      "x": 461,
+      "y": -771,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "875361ab-c7cf-4d6c-aa6e-549c8b43e000",
+      "width": 300,
+      "x": 1330,
+      "y": 434,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "71f090f7-ad2e-4b1a-bc47-d2248f41a279",
+      "width": 300,
+      "x": 1184,
+      "y": 485,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "1c7d92a0-5a6a-450d-b7d3-594ec7b54a42",
+      "width": 300,
+      "x": 1036,
+      "y": 537,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "80f960f5-d1da-4bbb-85e0-7900beff16a5",
+      "width": 300,
+      "x": 892,
+      "y": 587,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "0a2d3037-cd21-4980-9a55-fd8db05a1f79",
+      "width": 300,
+      "x": -414,
+      "y": 229,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "a96f1049-13a7-41f7-b614-98148ca824c2",
+      "width": 300,
+      "x": -274,
+      "y": 279,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 136,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "45dddf51-d540-469e-bf6f-c069277e0178",
+      "width": 305,
+      "x": -142,
+      "y": 330,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "f42fd84d-6357-489d-91d1-75508b3b0580",
+      "width": 300,
+      "x": 5,
+      "y": 380,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "5c6c6ed8-987d-495c-a68d-0be8821508b3",
+      "width": 300,
+      "x": 161,
+      "y": 427,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "bfa7dd79-fc92-4229-8d3b-a1dd11732880",
+      "width": 300,
+      "x": 305,
+      "y": 482,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "825954e7-8e73-4d00-88b7-bf8d5a634c3a",
+      "width": 300,
+      "x": 457,
+      "y": 531,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "c788394a-beab-4133-a9ce-5a01bb143b41",
+      "width": 300,
+      "x": 605,
+      "y": 580,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "0204d68b-ff08-4e77-bce6-39e7134be76e",
+      "width": 300,
+      "x": 748,
+      "y": 634,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "5828655f-aef1-4c81-84ea-3861f9e45c6c",
+      "width": 300,
+      "x": 1481,
+      "y": 384,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "1eab9042-378a-48aa-bd04-c5b2139039b8",
+      "width": 300,
+      "x": 1335,
+      "y": 330,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "8d2558f7-a20a-4cd8-abd3-1a27de880346",
+      "width": 300,
+      "x": 1190,
+      "y": 281,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "6da4a65d-626f-45fc-8d38-d5ee505953de",
+      "width": 300,
+      "x": 1039,
+      "y": 229,
+      "zOrder": -2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "b4f64a1e-46ef-4215-bc33-27f18a13d89a",
+      "width": 300,
+      "x": 1184,
+      "y": 179,
+      "zOrder": -3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "a2017f14-53b0-415b-a7f8-9e66f2cb4020",
+      "width": 300,
+      "x": 1339,
+      "y": 230,
+      "zOrder": -2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "93e4f73f-d8c2-4c3f-b4b4-43b86ff84d36",
+      "width": 300,
+      "x": 1469,
+      "y": 280,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "9513fbbc-b579-4269-a4d9-a5a1f04e5ebc",
+      "width": 300,
+      "x": 1621,
+      "y": 329,
+      "zOrder": 0,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "6dd74e04-a453-41d7-a986-f44919b3bcc2",
+      "width": 300,
+      "x": 1478,
+      "y": 182,
+      "zOrder": -3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "821b37b1-cfbd-4d12-ac53-3e212b8f71b9",
+      "width": 300,
+      "x": 1604,
+      "y": 226,
+      "zOrder": -2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "86ab8985-8c68-4f95-a17a-9570001d7868",
+      "width": 300,
+      "x": 1758,
+      "y": 276,
+      "zOrder": -1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "196dd2ea-0970-47d4-8e02-214242f15f94",
+      "width": 300,
+      "x": 1331,
+      "y": 130,
+      "zOrder": -4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 142.51269035532994,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor3_v2",
+      "persistentUuid": "66e142e2-0af3-47c6-b426-7df6878c16ab",
+      "width": 300,
+      "x": 1486,
+      "y": 79,
+      "zOrder": -5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "38abb144-4738-41e5-87e0-9ab84503f716",
+      "width": 300,
+      "x": 1629,
+      "y": 134,
+      "zOrder": -4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "0ddbd749-83b1-4b89-a1ad-9c99c1d17b7b",
+      "width": 300,
+      "x": 1765,
+      "y": 179,
+      "zOrder": -3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 139.52602623783326,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_floor1_v2",
+      "persistentUuid": "f15aba3b-73b3-44e6-9779-56ac938907f8",
+      "width": 300,
+      "x": 1903,
+      "y": 227,
+      "zOrder": -2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "982e8372-8b5e-4e0f-af95-fd9266fb1dc5",
+      "width": 193,
+      "x": -447,
+      "y": 13,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "f9eaaf68-090a-487d-afae-202eec33b257",
+      "width": 193,
+      "x": 117,
+      "y": -178,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "53e56306-0d26-4957-a09d-723989552735",
+      "width": 193,
+      "x": 303,
+      "y": -179,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "378471a2-09ca-4533-8d2d-7065f7247a38",
+      "width": 193,
+      "x": 452,
+      "y": -129,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 254.2329317269076,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall2_v2",
+      "persistentUuid": "79ba1af0-4c0f-4263-9b62-d2b0adc7165a",
+      "width": 193,
+      "x": -292,
+      "y": -23,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 254.2329317269076,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall2_v2",
+      "persistentUuid": "8aca56f8-964b-4ae3-bed3-3b30b682625b",
+      "width": 193,
+      "x": -36,
+      "y": -113,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "746b9bcd-0433-43da-87f0-e1df5c2f4f1b",
+      "width": 193,
+      "x": 600,
+      "y": -80,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 254.2329317269076,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall2_v2",
+      "persistentUuid": "018b0ca3-ac1c-4f37-a83e-f0f4cec8838e",
+      "width": 193,
+      "x": 754,
+      "y": -14,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "134bfbd3-e5df-4df3-aff9-874e2deba47e",
+      "width": 193,
+      "x": 907,
+      "y": 20,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 254.2329317269076,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall2_v2",
+      "persistentUuid": "fbe9a0b8-8cac-401c-a11a-ae5a31a9d8e0",
+      "width": 193,
+      "x": 1065,
+      "y": 25,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "a188de8d-1d92-4743-a564-7660e47a38d7",
+      "width": 193,
+      "x": 1201,
+      "y": -44,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "192a95c6-b262-41ca-b8d0-0f1aa8f0d644",
+      "width": 193,
+      "x": 1355,
+      "y": -96,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "d5b3ec25-10c6-4fca-bd68-c4e940091f0b",
+      "width": 193,
+      "x": 1461,
+      "y": -131,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 110,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wallpaper_v2",
+      "persistentUuid": "dd86990d-54f9-46ca-858f-d13a65ba0912",
+      "width": 72,
+      "x": 919,
+      "y": -689,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 254.2329317269076,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall2_v2",
+      "persistentUuid": "4af3a46b-310c-41c9-9734-163cf996aa49",
+      "width": 193,
+      "x": 1630,
+      "y": -119,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "a972d87d-3ff9-45de-b422-34f3f7f27979",
+      "width": 193,
+      "x": 2037,
+      "y": 16,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 269,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wall1_v2",
+      "persistentUuid": "81c069e0-d411-41e6-bcae-16af1195dda7",
+      "width": 193,
+      "x": 1750,
+      "y": -95,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 348,
+      "customSize": true,
+      "depth": 1,
+      "height": 153,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wallpaper_v2",
+      "persistentUuid": "36e71a9e-46d2-4d49-a53f-feec8298d9ca",
+      "width": 100,
+      "x": -336,
+      "y": 65,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 6,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 188,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wallpaper_v2",
+      "persistentUuid": "3a151f0e-4a14-4ee5-97df-4e409d8361f9",
+      "width": 178,
+      "x": 342,
+      "y": -122,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 20,
+      "customSize": true,
+      "depth": 1,
+      "flippedX": true,
+      "height": 188,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wallpaper_v2",
+      "persistentUuid": "18f58b4c-f5cf-4278-91f3-1ad6f39f4931",
+      "width": 178,
+      "x": 560,
+      "y": -37,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 354,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 110,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wallpaper_v2",
+      "persistentUuid": "c518acc7-7b11-444c-ab28-0b3cad08f55f",
+      "width": 72,
+      "x": 973,
+      "y": 107,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 345,
+      "customSize": true,
+      "depth": 1,
+      "height": 188,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_wallpaper_v2",
+      "persistentUuid": "a6ab5b74-8305-4178-abac-09f28bbd742c",
+      "width": 178,
+      "x": 1362,
+      "y": -47,
+      "zOrder": 101,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 131,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_bench_v2",
+      "persistentUuid": "5a7e525f-68b1-4cd6-8117-292fcdd738c3",
+      "width": 247,
+      "x": 245,
+      "y": 324,
+      "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "height": 131,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_bench_v2",
+      "persistentUuid": "3952b4b1-d89f-494c-9eee-fc46ea040cc4",
+      "width": 247,
+      "x": 583,
+      "y": 447,
+      "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 131,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_bench_v2",
+      "persistentUuid": "c29be83e-1586-46bb-800f-cf2f76e3052a",
+      "width": 247,
+      "x": 1263,
+      "y": 497,
+      "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 0,
+      "flippedX": true,
+      "height": 131,
+      "keepRatio": true,
+      "layer": "",
+      "name": "gal_bench_v2",
+      "persistentUuid": "d7ecba85-3240-4e25-89ba-78522850168b",
+      "width": 247,
+      "x": 1704,
+      "y": 334,
+      "zOrder": 102,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 341,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "76ad837b-02c4-42d0-95fb-d1efb955d936",
+      "width": 323,
+      "x": -417,
+      "y": 210,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -341,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "ad7316b2-ee11-458a-823a-72b1860bb4aa",
+      "width": 323,
+      "x": 1593,
+      "y": 103,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -342,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "623687c1-0902-4e0e-beb1-52ecf383f077",
+      "width": 811,
+      "x": 272,
+      "y": 144,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 341,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "5aaebfc9-b45d-425f-807e-d193e2ccaca0",
+      "width": 631,
+      "x": 1038,
+      "y": 167,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 341,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "d268096d-369e-42b2-9b53-178f03f013e4",
+      "width": 323,
+      "x": 3,
+      "y": 81,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -341,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "a691f1a2-da4c-4510-9785-1b227db5e0f6",
+      "width": 184,
+      "x": 2024,
+      "y": 241,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 19,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "389b331a-aa80-4a68-b32f-a839b543cd22",
+      "width": 176,
+      "x": 66,
+      "y": 286,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 342,
+      "customSize": true,
+      "depth": 1,
+      "height": 12,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "91e823b6-7d5f-4596-a2b1-52ad844565fd",
+      "width": 102,
+      "x": 225,
+      "y": 308,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 19,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "38c1a8ee-869b-42bc-851e-d68956ea78d9",
+      "width": 176,
+      "x": 407,
+      "y": 410,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 342,
+      "customSize": true,
+      "depth": 1,
+      "height": 12,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "5d5d56b8-e88f-4717-b2ce-9acbaa2f3f74",
+      "width": 102,
+      "x": 566,
+      "y": 432,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -19,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "fc65ecc3-912e-4e58-a78a-f7023a4c8b18",
+      "width": 176,
+      "x": 1168,
+      "y": 458,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 17,
+      "customSize": true,
+      "depth": 1,
+      "height": 10,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "5c18e21a-f32c-47b7-aa75-8d5914853ffd",
+      "width": 86,
+      "x": 1092,
+      "y": 479,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 17,
+      "customSize": true,
+      "depth": 1,
+      "height": 10,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "a253502b-5f78-45d5-bdb2-21d42c6b2930",
+      "width": 86,
+      "x": 1532,
+      "y": 312,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": -19,
+      "customSize": true,
+      "depth": 1,
+      "height": 21,
+      "layer": "bounds_layer",
+      "name": "boundary",
+      "persistentUuid": "5e8d86f9-992f-47c1-863e-fc7081cc242b",
+      "width": 176,
+      "x": 1608,
+      "y": 291,
+      "zOrder": 103,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_floor1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 2356.5,
+                    "y": 3393
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1175,
+                        "y": 2329
+                      },
+                      {
+                        "x": 3534,
+                        "y": 2329
+                      },
+                      {
+                        "x": 3534,
+                        "y": 3420
+                      },
+                      {
+                        "x": 1175,
+                        "y": 3420
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_floor2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1178,
+                        "y": 2329
+                      },
+                      {
+                        "x": 3534,
+                        "y": 2329
+                      },
+                      {
+                        "x": 3534,
+                        "y": 3420
+                      },
+                      {
+                        "x": 1178,
+                        "y": 3420
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_floor3",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor_3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1178,
+                        "y": 2962
+                      },
+                      {
+                        "x": 3534,
+                        "y": 2962
+                      },
+                      {
+                        "x": 3534,
+                        "y": 4053
+                      },
+                      {
+                        "x": 1178,
+                        "y": 4053
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_wall1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wall_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1825,
+                        "y": 1487
+                      },
+                      {
+                        "x": 3295,
+                        "y": 1487
+                      },
+                      {
+                        "x": 3295,
+                        "y": 3547
+                      },
+                      {
+                        "x": 1825,
+                        "y": 3547
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_wall2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wall_2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1183,
+                        "y": 1296
+                      },
+                      {
+                        "x": 2675,
+                        "y": 1296
+                      },
+                      {
+                        "x": 2675,
+                        "y": 3256
+                      },
+                      {
+                        "x": 1183,
+                        "y": 3256
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_wallcanvas1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wall_canvas_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 2204,
+                        "y": 1798
+                      },
+                      {
+                        "x": 2957,
+                        "y": 1798
+                      },
+                      {
+                        "x": 2957,
+                        "y": 2967
+                      },
+                      {
+                        "x": 2204,
+                        "y": 2967
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_bench1",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bench_1.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1560,
+                        "y": 2037
+                      },
+                      {
+                        "x": 3370,
+                        "y": 2037
+                      },
+                      {
+                        "x": 3370,
+                        "y": 2983
+                      },
+                      {
+                        "x": 1560,
+                        "y": 2983
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_floor1_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor_1_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 6
+                      },
+                      {
+                        "x": 2360,
+                        "y": 6
+                      },
+                      {
+                        "x": 2360,
+                        "y": 1097
+                      },
+                      {
+                        "x": 1,
+                        "y": 1097
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_floor2_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor_2_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 15,
+                        "y": 15
+                      },
+                      {
+                        "x": 2371,
+                        "y": 15
+                      },
+                      {
+                        "x": 2371,
+                        "y": 1106
+                      },
+                      {
+                        "x": 15,
+                        "y": 1106
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_floor3_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "floor_3_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1,
+                        "y": 15
+                      },
+                      {
+                        "x": 2357,
+                        "y": 15
+                      },
+                      {
+                        "x": 2357,
+                        "y": 1106
+                      },
+                      {
+                        "x": 1,
+                        "y": 1106
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_wall1_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wall_1_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 12,
+                        "y": 14
+                      },
+                      {
+                        "x": 1482,
+                        "y": 14
+                      },
+                      {
+                        "x": 1482,
+                        "y": 2074
+                      },
+                      {
+                        "x": 12,
+                        "y": 2074
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_wall2_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wall_2_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 8
+                      },
+                      {
+                        "x": 1493,
+                        "y": 8
+                      },
+                      {
+                        "x": 1493,
+                        "y": 1968
+                      },
+                      {
+                        "x": 11,
+                        "y": 1968
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "gal_wallpaper_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "wall_canvas_1_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 11,
+                        "y": 0
+                      },
+                      {
+                        "x": 764,
+                        "y": 0
+                      },
+                      {
+                        "x": 764,
+                        "y": 1166
+                      },
+                      {
+                        "x": 11,
+                        "y": 1166
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "gal_bench_v2",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "bench_1_reup.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 1246,
+                    "y": 940
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 1787,
+                        "y": 742.5
+                      },
+                      {
+                        "x": 1243,
+                        "y": 951
+                      },
+                      {
+                        "x": 4.5,
+                        "y": 542
+                      },
+                      {
+                        "x": 12,
+                        "y": 216
+                      },
+                      {
+                        "x": 576.5,
+                        "y": 29.5
+                      },
+                      {
+                        "x": 1810,
+                        "y": 438
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT",
+    "children": [
+      {
+        "objectName": "gal_floor1"
+      },
+      {
+        "objectName": "gal_floor2"
+      },
+      {
+        "objectName": "gal_floor3"
+      },
+      {
+        "objectName": "gal_wall1"
+      },
+      {
+        "objectName": "gal_wall2"
+      },
+      {
+        "objectName": "gal_wallcanvas1"
+      },
+      {
+        "objectName": "gal_bench1"
+      },
+      {
+        "objectName": "gal_floor1_v2"
+      },
+      {
+        "objectName": "gal_floor2_v2"
+      },
+      {
+        "objectName": "gal_floor3_v2"
+      },
+      {
+        "objectName": "gal_wall1_v2"
+      },
+      {
+        "objectName": "gal_wall2_v2"
+      },
+      {
+        "objectName": "gal_wallpaper_v2"
+      },
+      {
+        "objectName": "gal_bench_v2"
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Link",
+      "include": {
+        "includeConfig": 0
+      },
+      "target": "Lobby_v1"
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": [
+        {
+          "type": {
+            "value": "ChangePlan"
+          },
+          "parameters": [
+            "gal_bench1",
+            "=",
+            "gal_bench1.Y()"
+          ]
+        },
+        {
+          "type": {
+            "value": "ChangePlan"
+          },
+          "parameters": [
+            "test_player",
+            "=",
+            "test_player.Y()"
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 3,
+      "cameraType": "",
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "bounds_layer",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": [
+        {
+          "effectType": "Scene3D::HemisphereLight",
+          "name": "3D Light",
+          "doubleParameters": {
+            "elevation": 45,
+            "intensity": 1,
+            "rotation": 0
+          },
+          "stringParameters": {
+            "groundColor": "64;64;64",
+            "skyColor": "255;255;255",
+            "top": "Y-"
+          },
+          "booleanParameters": {}
+        }
+      ]
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Animation",
+      "type": "AnimatableCapability::AnimatableBehavior"
+    },
+    {
+      "name": "Effect",
+      "type": "EffectCapability::EffectBehavior"
+    },
+    {
+      "name": "Flippable",
+      "type": "FlippableCapability::FlippableBehavior"
+    },
+    {
+      "name": "Opacity",
+      "type": "OpacityCapability::OpacityBehavior"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "Resizable",
+      "type": "ResizableCapability::ResizableBehavior"
+    },
+    {
+      "name": "Scale",
+      "type": "ScalableCapability::ScalableBehavior"
+    },
+    {
+      "name": "SmoothCamera",
+      "type": "SmoothCamera::SmoothCamera"
+    },
+    {
+      "name": "TopDownMovement",
+      "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+    }
+  ]
+}
